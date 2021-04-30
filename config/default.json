@@ -1,0 +1,7 @@
+
+{
+  "port": 5000,
+  "jwtSecret":"anton_lebedev",
+  "mongoUri": "mongodb+srv://anton:anton7p@cluster0.okqin.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
